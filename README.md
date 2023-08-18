@@ -1,5 +1,5 @@
 # Shape Logo Generator - README
-
+# Video Submission : https://drive.google.com/file/d/14eoT8L0NHL-coK6IhMQo_br0ft3jXsVc/view 
 This repository contains a simple command-line application for generating SVG logos based on different shapes. The user is prompted to choose a shape (Circle, Square, or Triangle), provide three letters, a shape color, and a text color. The application then generates an SVG logo with the specified parameters and saves it as "logo.svg" in the "./output" directory.
 
 ## Table of Contents
